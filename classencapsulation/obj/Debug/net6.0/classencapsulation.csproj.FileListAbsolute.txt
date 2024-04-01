@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\bin\Debug\net6.0\classencapsulation.exe
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\bin\Debug\net6.0\classencapsulation.deps.json
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\bin\Debug\net6.0\classencapsulation.runtimeconfig.json
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\bin\Debug\net6.0\classencapsulation.dll
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\bin\Debug\net6.0\classencapsulation.pdb
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\obj\Debug\net6.0\classencapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\obj\Debug\net6.0\classencapsulation.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\obj\Debug\net6.0\classencapsulation.AssemblyInfo.cs
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\obj\Debug\net6.0\classencapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\obj\Debug\net6.0\classencapsulation.dll
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\obj\Debug\net6.0\refint\classencapsulation.dll
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\obj\Debug\net6.0\classencapsulation.pdb
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\obj\Debug\net6.0\classencapsulation.genruntimeconfig.cache
+C:\Users\Hp\Desktop\classencapsulation\classencapsulation\obj\Debug\net6.0\ref\classencapsulation.dll
